@@ -1,0 +1,14 @@
+Conceito de hoisting parcialmente correto, pq não levou em consideração a questão do escopo. 
+Código de exemplo correto.
+Nota: 1.3
+
+Hosting trata-se do fato que as variáveis e funções de um código ao ser executado são enviadas para o topo do arquivo, sendo inicializadas antes das demais partes do código.
+
+Javascript é afetado pelo hosting de tal modo que é possível chamar uma função em um código antes da linha onde ela é criada, o mesmo serve para variáveis.
+
+------------------------------- Código de exemplo ---------------------------------
+somar(10,5);
+
+function somar(x,y){
+  console.log(x + y);
+}

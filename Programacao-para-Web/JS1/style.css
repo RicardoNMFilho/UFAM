@@ -1,0 +1,14 @@
+.tabelas {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.tabelas table {
+	margin-left: 20px;
+	margin-top:  20px;
+}
+
+.text {
+	text-align: center;
+}

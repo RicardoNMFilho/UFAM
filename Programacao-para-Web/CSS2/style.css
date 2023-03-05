@@ -1,0 +1,20 @@
+body {
+	background-image: url("girassol.webp");
+	background-size: cover;
+	background-position: center;
+}
+
+div.container {
+	margin-top: 20px;
+	margin-left: 100px;
+	width: 330px;
+	height: 250px;
+	background-color: rgb(255, 255, 255, 0.7);
+	border-radius: 30px;
+	border: 10px solid #ffeb96;
+	box-shadow: 4px 4px 10px 2px gray;
+}
+
+div.container p, h2 {
+	text-align: center;
+}

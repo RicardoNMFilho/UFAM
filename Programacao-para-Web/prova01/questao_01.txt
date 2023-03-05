@@ -1,0 +1,19 @@
+Todos os erros foram encontrados corretamente.
+Nota 2.0
+
+Erro 1
+-> Linha 24 até 33
+Justificativa: Uso da tag style para função script. Substituir a tag <style></style> por <script></script>.
+
+Erro 2
+-> Linha 18
+Justificativa: Tag strong não é fechada. Fechar a tag <strong> com </strong> onde deseja que o texto fique em negrito.
+
+Erro 3
+-> Linha 29
+Justificativa: Uso de that ao invés de this. Utilizar this no lugar de that, tornando possível referenciar e retornar o nome.
+
+Erro 4
+-> Linha 04
+Justificativa: Comentário aparecendo na página.
+Usar <!-- --> no lugar de \* */.

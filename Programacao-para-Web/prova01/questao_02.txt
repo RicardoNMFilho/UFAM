@@ -1,0 +1,8 @@
+Todos os seletores foram identificados corretamente
+Nota: 2.0
+
+span 
+
+span.cl1
+
+p > .cl1
